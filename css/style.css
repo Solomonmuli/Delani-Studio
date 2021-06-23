@@ -24,4 +24,8 @@ body{
   position: absolute;
   bottom: 25px;
 }
-
+.services{
+  background-image: url(/assets/backgrounds/s_image.jpg);
+  height: 300px;
+  color: #ffffff;
+}
