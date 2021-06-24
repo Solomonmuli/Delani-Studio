@@ -27,9 +27,14 @@ body{
 }
 .services{
   background-image: url(/assets/backgrounds/s_image.jpg);
-  height: 300px;
+  height: 300px;  
   color: #ffffff;
 }
 /* .whatwedo{
  max-height: 350px;
 } */
+.contact-us{
+  background-image: url(/assets/backgrounds/c_image.jpg);
+  background-position:center ;
+  height: 400px;
+}
