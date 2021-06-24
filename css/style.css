@@ -38,3 +38,7 @@ body{
   background-position:center ;
   height: 400px;
 }
+li {
+  list-style-type: none;
+  padding: 5px;
+}
