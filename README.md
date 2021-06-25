@@ -1,13 +1,14 @@
 <!-- Project Name -->
 # DELANI STUDIO
 ---
+## Screenshot
 
-![image]()
+![image](/assets/screenshot.png)
 
 
 <!-- Description  -->
 ## Description
-
+This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a form that enables users to send their messages and concern to Delani studios.
 
 
 ### Languages Used
@@ -16,13 +17,14 @@
 - CSS
 - JavaScript
 - Bootstrap
+- JQuery
 
 ---
 
 <!-- live link to the application-->
-## Live Server
+## Live Link
 
-[Demo Link]()
+[Demo Link](https://github.com/Solomonmuli/Delani-Studio)
 
 
 ---
