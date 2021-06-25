@@ -9,7 +9,7 @@ body{
 }
 
 .hero{
-  background-image: url(/assets/backgrounds/h_img.jpg);
+  background-image: url("../assets/backgrounds/h_img.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 700px;
@@ -27,7 +27,7 @@ body{
   bottom: 25px;
 }
 .services{
-  background-image: url(/assets/backgrounds/s_image.jpg);
+  background-image: url("../assets/backgrounds/s_image.jpg");
   height: 300px;  
   color: #ffffff;
 }
@@ -35,7 +35,7 @@ body{
  max-height: 350px;
 } */
 #contact-us{
-  background-image: url(/assets/backgrounds/c_image.jpg);
+  background-image: url("../assets/backgrounds/c_image.jpg");
   background-position:center ;
   height: 400px;
 }
